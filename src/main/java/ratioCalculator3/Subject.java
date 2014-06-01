@@ -1,7 +1,7 @@
 package ratioCalculator3;
 
 /**
- * Created by hui on 05/31/14.
+ * Created by hui on 005/31/14.
  */
 class Subject {
     protected static int numberOfCategories;
